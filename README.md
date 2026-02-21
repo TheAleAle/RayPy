@@ -1,5 +1,7 @@
 # RayPy
 
+**This is an old university project.**
+
 RayPy a ray tracer engine written in python.
 
 ### Dependencies
