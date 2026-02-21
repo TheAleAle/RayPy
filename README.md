@@ -1,6 +1,8 @@
 # RayPy
 
-**This is an old university project.**
+---
+**[DISCLAIMER] This is an old (but funny) university project.[/DISCLAIMER]**
+---
 
 RayPy a ray tracer engine written in python.
 
